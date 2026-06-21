@@ -2,8 +2,7 @@
 
 แฟนเกมการ์ดที่อิงกติกาจริงของ **Battle of Talingchan** (https://bangbon.app/cards)
 
-เอนจิน: **LÖVE 11.5** (Lua) เลือกใช้เพราะเหมาะกับเกมการ์ด 2D มากกว่า Freely Engine
-(ซึ่งเป็น 3D engine) — ใช้ฟอนต์ **Kanit** (SIL Open Font License) จาก Google Fonts
+เอนจิน: **LÖVE 11.5** - ใช้ฟอนต์ **Kanit** (SIL Open Font License) จาก Google Fonts
 เพื่อรองรับภาษาไทยเต็มรูปแบบ (Freely Engine มีแต่ฟอนต์ Inter/Noto Sans JP ที่ไม่รองรับไทย)
 
 ## วิธีเล่น

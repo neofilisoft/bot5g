@@ -3,7 +3,7 @@
 แฟนเกมการ์ดที่อิงกติกาจริงของ **Battle of Talingchan** (https://bangbon.app/cards)
 
 เอนจิน: **LÖVE 11.5** - ใช้ฟอนต์ **Kanit** (SIL Open Font License) จาก Google Fonts
-เพื่อรองรับภาษาไทยเต็มรูปแบบ (Freely Engine มีแต่ฟอนต์ Inter/Noto Sans JP ที่ไม่รองรับไทย)
+เพื่อรองรับภาษาไทยเต็มรูปแบบ (ฟอนต์ Inter/NotoSansJP ไม่รองรับไทย)
 
 ## วิธีเล่น
 
